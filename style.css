@@ -1,0 +1,67 @@
+body {
+    font-family: serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    background-color: Indigo;
+    font-size: 40px;
+}
+
+header a {
+    background-color: Indigo;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid Indigo;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 50px;
+}
+
+header img {
+    height: 70px;
+    width: 70px;
+}
+
+img {
+    border: 3px solid indigo;
+}
+
+main p {
+    border: 1px solid indigo;
+    padding: 10px;
+    margin: 10px;
+}  
+
+main img {
+   width: 450px;
+   height: 350px;
+   margin: 10px;
+}
+
+footer img {
+   width: 550px;
+   height: 400px;
+}
+
+table {
+    border: 2px solid navy;
+    color: indigo;
+    bordeer-collapse: collapse;
+    padding: 10px;
+    margin: 10px;
+}
+
+td {
+    border: 2px solid navy;
+}
+
+main p {
+    font-size: 17px;
+}
